@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="main_form">Main Form</string>
+    <string name="textview">Selamat datang, \nusername</string>
+    <string name="paragraf3">Ini adalah halaman utama Anda.</string>
+    <string name="button">LOG OUT</string>
+    <string name="button1">EXIT</string>
+    <string name="JudulLogin">Login Form</string>
+
+
+    <string name="loginString">Login</string>
+    <string name="cancelString">Cancel</string>
+    <string name="namaString">Enter Username</string>
+    <string name="penggunaString">Enter Username</string>
+    <string name="sandiString">Enter Password</string>
+</resources>
